@@ -1,9 +1,13 @@
 # aperioParser
 
 
-usage
-parse.pl <input.txt
+usage (print to stdout)
+parse.pl <test.data.txt
 
-or
+or (save to file)
 
-parse.pl <input.txt >output.txt
+parse.pl <test.data.txt >output.txt
+
+
+
+
