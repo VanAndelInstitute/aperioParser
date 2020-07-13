@@ -1,0 +1,2 @@
+Aperio Image Library v12.0.15 
+8128x8908 [0,100 7968x8808] (240x240) JPEG/RGB Q=70|AppMag = 20|StripeWidth = 2032|ScanScope ID = SS7559|Filename = 150130|Date = 05/02/19|Time = 13:20:09|Time Zone = GMT-04:00|User = c33a3f24-758f-4213-aea5-181553fd6178|MPP = 0.5031|Left = 30.222279|Top = 12.015496|LineCameraSkew = -0.000609|LineAreaXOffset = 0.000093|LineAreaYOffset = -0.011878|Focus Offset = -0.000500|DSR ID = aperio04|ImageID = 150130|Exposure Time = 32|Exposure Scale = 0.000001|DisplayColor = 0|SessonMode = NR|OriginalWidth = 8128|OriginalHeight = 8908|ICC Profile = AT2
